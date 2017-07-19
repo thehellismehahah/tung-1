@@ -1,0 +1,15 @@
+
+{
+  "fake": "0",
+  "idadmod": {
+      "baner":"ca-app-pub-2307368916067173/6395209246",
+	   "banerfull": "ca-app-pub-2307368916067173/9348675649"
+  },
+  "version": {
+     "name": "1.0.0",
+    "title":"Do you want to update the latest version?",
+    "content": "-fixed bugs",
+    "linkUpdate":"market://details?id=stickmanwarriors.stickmanWar.online",
+    "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+Tech.,+JSC"
+  }
+}
