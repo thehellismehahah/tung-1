@@ -8,7 +8,7 @@
      "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
-    "linkUpdate":"market://details?id=com.brain.physicspuzzles",
-    "linkmoregame":"https://play.google.com/store/apps/developer?id=Stickman+Tech.,+JSC"
+    "linkUpdate":"https://itunes.apple.com/us/app/brain-it-on-the-wood-trucks/id1262367846",
+    "linkmoregame":"https://itunes.apple.com/us/developer/tien-tran/id1249980980"
   }
 }
