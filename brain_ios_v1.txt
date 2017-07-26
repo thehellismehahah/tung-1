@@ -5,7 +5,7 @@
 	   "banerfull": "ca-app-pub-1667805177474426/7255278302"
   },
   "version": {
-     "name": "1.0.0",
+     "name": "1.0.2",
     "title":"Do you want to update the latest version?",
     "content": "-fixed bugs",
     "linkUpdate":"https://itunes.apple.com/us/app/brain-it-on-the-wood-trucks/id1262367846",
