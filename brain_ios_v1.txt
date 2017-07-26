@@ -7,7 +7,8 @@
   "version": {
      "name": "1.0.2",
     "title":"Do you want to update the latest version?",
-    "content": "-fixed bugs",
+    "content": "- Adding 40 new levels: 46-85
+- Fixed bugs",
     "linkUpdate":"https://itunes.apple.com/us/app/brain-it-on-the-wood-trucks/id1262367846",
     "linkmoregame":"https://itunes.apple.com/us/developer/tien-tran/id1249980980"
   }
