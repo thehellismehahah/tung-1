@@ -5,7 +5,7 @@
 	   "banerfull": "ca-app-pub-1667805177474426/7255278302"
   },
   "version": {
-     "name": "1.0.2",
+     "name": "1.0.0",
     "title":"Do you want to update the latest version?",
     "content": "- Adding 40 new levels: 46-85
 - Fixed bugs",
